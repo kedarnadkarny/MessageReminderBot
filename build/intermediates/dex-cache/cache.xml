@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/0ad4bfa7a088258de58297173a67d68b5c8a6389/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13c614f02041035b22bb2493dc81e4d9cb7ecf2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/d4244206e380eefd1726363489047f7ce493d001/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5fa0f3c4ce37fe387b516886ffccc2b88db58368/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/d4244206e380eefd1726363489047f7ce493d001/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9a1e79c8094f4d99847d1ad3c93be1a68bb7886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/69de7e6cb71456468b2daa144e55b5d087afe010/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae2d663f08fd7e78e47a1c5f1aea1d588d1c3255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_f67fa8e41c53b6119b1f63a62145903b4c00f0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/0c2228ebf563aa2320a91f1c2d0a63ab40bf9845/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97f372128055f3576505180098178d692bc36312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_58e9a65f6332d442e4b155be936902c935caf25e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/Android Projects/DemoV1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acc36de5331a092872aca2a2dd07345db38ce7fb">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_730295d2fa20eb07a77c04c65fc72f1970ad6fe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/6c080b2553431368abe16ec4b4175f057f76255e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69412582f673670173df7c7ea3681b1df0556ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/049dbf0ffc673eac113ab476c8290add6d6fa76e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81a83ed571a11f8894d826c2389e75f329ce2484/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_dbea6a28e6ac9926a56f65d5348b9598cd1a3810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/68ac1ae2b42cd0bb7ae64ecf743b37ad4ef007fe/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_652f651dc7d8267b253e7a7c221d9e725e2d5f87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/b0b5a1fc158983dc9c8d9ff880fe304c379bdb49/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e68cda86af40149e21d8ebc3f7eb89278a01164a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/1220cb1d66eb4ef27636017520d98940241fe978/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdfaa529f76630c2a98ac81b675be8a2a356139e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/ea36820be374b07e392ba9e9814b57d3458f3c58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a913a9c5a6e8b3cac7cde69d6459802c25c25ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/20e72db2b61ee35c12a94adfac2d4fdb775bb0fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a0acdcea9859370d0d637b6713ad3ccb5491641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/68ac1ae2b42cd0bb7ae64ecf743b37ad4ef007fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34c2af4c26a82ba1f950125aa5dfa94d68c6c8b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/4657deb62236eb620e09cad430b95f9890575ecf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f59fd29b071abc326a6bdc4017f4ef6105a503b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/e5786bac6f4cc5c2a1ddfc7c76d16af2b7ac1dc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7874e5c59f377bd26f7b989140456871f479a702/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/b1c5bd396c6d0bba197524cdf0916d32251b4ef0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd6b685addbb1bc51ab2d8047c9f41a6985ca967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/2db188db67f5fd103f2883df420d12c53ed6a5e3/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bceecbbe58b76475fed3d6bcdab00b2272fb3cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/b0b5a1fc158983dc9c8d9ff880fe304c379bdb49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17d54885d9d17f466a37ba95c4c3db7ae042cbdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/3837bf4aca97fd7365356b613236f455acd9cd2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bcb11c402d2f9e8b181abbb525b6c84c44ca7a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/dcb7eba2fe3b066668e1d7a540ade3d2cdc04721/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_854e8db8a4c109688b6cad25a0f3528c59df00aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/519f23630e18c8807c32cd7eda872ddae4b0bced/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e078cc2134c4e73aa508cf51633365523ac554b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/ab4c797f9d07904868239b6fefae2a2c19dea35c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9c972c5a9c4e99c9c6f65f2add42d63845b5064/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.11_01df60f4201103e70ad105b090ba1c099e2add37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_cbf3a2c9abe8105f6b19b57743086da2e450e195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/64932f831673a781067facd72a5f8cf246972f79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e16f4bd353da969da95bdcbc470a6fa5ee6d27e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/7e410026df110b0e615ff44a43bbd9f035f615b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_497858c006ed7edacd86ce3a3016686fa41da4e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/65547149e428e9421ec6bea624b7ec8cbbd122d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f358da1b798121dd7e8ed8bfd26bfa762c33e26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_c9c232b2f00af19884e7a99b91db275362d0f082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.3.1_0bdcb70a36e3eb3b77ff73f5f2b91cf53e4cebab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/c1df4511ccce7df5ccb207aa1477fe31cc3412e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c03c181fd30fb3985980695eda13c2d613b61f44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/328d3ff44eebb0441cf10e3c71a7ac7c859cc528/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5910077181ebd334384a3373874514fbbaaf92bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/Android Projects/DemoV1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f6ccb9d4b5e503ce6f52b5e06cef88e46980f887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.3.1_1fda70505a14b1b8a6e1dd26ba59c1b443090738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/2db188db67f5fd103f2883df420d12c53ed6a5e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc219f1c5100f047d427e04e633da1473e940ef8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/519f23630e18c8807c32cd7eda872ddae4b0bced/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a620a01770af5b0b9aac100dd439e8f4ba13199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kedar/.android/build-cache/0c32cf5fc11fc80bfe7872be36bad725f3910e07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/kedar/Android Projects/DemoV1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2f792aa58e9d5bbe43ecd33de27bbe0c55d3b49/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617827786101",
+    "firebase_url": "https://demov1-71717.firebaseio.com",
+    "project_id": "demov1-71717",
+    "storage_bucket": "demov1-71717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617827786101:android:6427eb48ffd269fa",
+        "android_client_info": {
+          "package_name": "main.demov1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617827786101-enida2e3jhp80el8o4uk7nit4s01k0cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "main.demov1",
+            "certificate_hash": "169E62067889CA04B72B59B2A1E4AC6BAFA627C0"
+          }
+        },
+        {
+          "client_id": "617827786101-vmikqbs3pqpmgtilg5l06k6aqmrspig2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBen9uKMPMmr8nS_x_7LFg4kI7d397iblA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617827786101-vmikqbs3pqpmgtilg5l06k6aqmrspig2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
